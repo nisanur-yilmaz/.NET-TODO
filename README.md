@@ -20,6 +20,11 @@ A responsive (mobile- and desktop-friendly) Todo application developed using **C
 * Frontend: HTML, CSS, JavaScript
 * Database: SQL (SQLite)
 * ORM: Entity Framework Core (optional)
+  
+
+## Todo
+
+<img width="1440" height="682" alt="todo" src="https://github.com/user-attachments/assets/5c9f6a69-3b6b-47db-986e-8a7d38e2017c" />
 
 ## Login
 
@@ -29,9 +34,6 @@ A responsive (mobile- and desktop-friendly) Todo application developed using **C
 
 <img width="1440" height="682" alt="signup" src="https://github.com/user-attachments/assets/fd3faa37-5945-403a-89ae-ae613651b863" />
 
-## Todo
-
-<img width="1440" height="682" alt="todo" src="https://github.com/user-attachments/assets/5c9f6a69-3b6b-47db-986e-8a7d38e2017c" />
 
 ## Password Change
 
