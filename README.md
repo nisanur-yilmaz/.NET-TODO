@@ -1,6 +1,6 @@
 # Todo Web Application
 
-A responsive (mobile- and desktop-friendly) Todo application developed using **C#**, **JavaScript**, **HTML**, **CSS**, and **SQL**. Users can register, log in, change their passwords, and manage their tasks in three categories: **To Do**, **In Progress**, and **Completed**.
+A responsive (mobile- and desktop-friendly) Todo application developed using **C#**, **JavaScript**, **HTML**, **CSS**, and **SQLite**. Users can register, log in, change their passwords, and manage their tasks in three categories: **To Do**, **In Progress**, and **Completed**.
 
 ## Features
 
@@ -37,4 +37,3 @@ A responsive (mobile- and desktop-friendly) Todo application developed using **C
 
 <img width="1440" height="682" alt="change" src="https://github.com/user-attachments/assets/168b0624-efcb-4ffd-ac6b-7667d71836e9" />
 
-İstersen bunu **GitHub README**, **CV proje açıklaması** veya **portfolio sitesi** formatına da dönüştürebilirim.
